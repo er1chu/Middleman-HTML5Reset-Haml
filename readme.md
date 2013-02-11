@@ -1,6 +1,6 @@
 # Middleman 3.0.x Project Template: HTML5 RESET, HAML, Amazium, Sprockets Includes
 
-An adaption of [HTML5 RESET](http://html5reset.org/) adapted as a HAML [Middleman 3.x](http://middlemanapp.com/) project template with [Amazium](http://amazium.co.uk) responsive grids ready to go, content using [Markdown](http://daringfireball.net/projects/markdown/), [SCSS](http://sass-lang.com/) organized with [SMACSS](http://smacss.com/), Coffeescript, Sprockets and more.
+[HTML5 RESET](http://html5reset.org/) adapted as a HAML [Middleman 3.x](http://middlemanapp.com/) project template with [Amazium](http://amazium.co.uk) responsive grids ready to go, content using [Markdown](http://daringfireball.net/projects/markdown/), [SASS](http://sass-lang.com/), Coffeescript, Sprockets and more.
 
 Middleman by [Danny Palmer](http://www.dannyprose.com)
 
