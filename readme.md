@@ -43,4 +43,4 @@ This will likely work with Middleman 2.x, but it's optimized for Middleman 3.x. 
 
 ## Contribute
 
-This was inspired by Danny's original HTML5 Boilerplate-Haml build **[Jump on in](https://github.com/dannyprose/Middleman-HTML5BP-HAML)**. If there are better defaults to include in a Middleman workflow, add them in. [I](http://erichu.info) just don't really like Boilerplate or Normalize or Susy.
+This was inspired by Danny's original [HTML5 Boilerplate-Haml build](https://github.com/dannyprose/Middleman-HTML5BP-HAML). If there are better defaults to include in a Middleman workflow, add them in. [I](http://erichu.info) just don't really like Boilerplate or Normalize or Susy.
